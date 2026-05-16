@@ -609,4 +609,42 @@ Progress Tracking
 
 > #“Transform thought patterns into empowered behaviour.”
 
+---
+
+Technology Tags
+IBM Bob (Mandatory)
+
+watsonx.ai
+
+IBM Agent Lab (Beta)
+
+Python
+
+Anaconda
+
+Streamlit
+
+LangChain / CrewAI
+
+Granite-13b-instruct (or the specific IBM model you choose)
+
+SQLite
+
+🗂️ Category Tags
+Artificial Intelligence
+
+AI Agents
+
+NLP (Natural Language Processing)
+
+Developer Tools & Workflows (Because you are demonstrating how Bob optimizes development)
+
+Healthcare & Wellbeing / Mental Health Tech
+
+Digital Therapeutics
+
+Behavioral Modification
+
+Social Impact
+
 > “From emotional struggle to confident growth.”
