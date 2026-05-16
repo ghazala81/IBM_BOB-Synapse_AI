@@ -1,0 +1,30 @@
+https://github.com/ghazala81/IBM_BOB-Synapse_AI
+AI-powered emotional transformation platform using SWISH Pattern interventions, emotion detection, and IBM Bob-assisted AI workflows.
+ai
+mental-health
+emotion-detection
+swish-pattern
+ibm-bob
+watsonx
+nlp
+behavioral-ai
+hackathon
+react
+fastapi
+langchain
+# IBM_BOB-Synapse_AI
+https://chatgpt.com/backend-api/estuary/content?id=file_000000005d247243b783463ae095c269&ts=494142&p=fs&cid=1&sig=249b62ca093ac35456ceec60938f9cf8713052e483e76e8ce8caccf081eb4987&v=0
+https://chatgpt.com/backend-api/estuary/content?id=file_000000005d247243b783463ae095c269&ts=494142&p=fs&cid=1&sig=249b62ca093ac35456ceec60938f9cf8713052e483e76e8ce8caccf081eb4987&v=0synapse_ai_banner.png
+AI-powered SWISH Pattern behavioural transformation platform using emotion detection, intelligent coaching agents, and IBM Bob-assisted development workflows.
+IBM_BOB-Synapse_AI/
+│
+├── assets/
+│   └── synapse_ai_banner.png
+├── frontend/
+├── backend/
+├── agents/
+├── README.md
+assets/README.md
+Assets folder for project images
+synapse_ai_banner.png
+![IBM_BOB-Synapse_AI Banner](assets/synapse_ai_banner.png)
